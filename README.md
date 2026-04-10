@@ -1,33 +1,33 @@
 # Hospital-Emergency-System
 
-## 📌 Project Description
+## Project Description
 This project is a Java-based Hospital Emergency Management System that prioritizes patients based on **severity level** and **arrival time**. It simulates how real-world emergency units handle patients efficiently using **Priority Queue** and **Heap Sort**.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - To manage patient treatment based on priority
 - To implement real-time scheduling using efficient data structures
 - To demonstrate the use of Heap and Priority Queue
 
 ---
 
-## ⚙️ Features
-- ✅ Add new patients with severity level
-- ✅ Automatically prioritize critical patients
-- ✅ Treat patients based on priority
-- ✅ Display current patient queue
-- ✅ Sort patients using Heap Sort
+## Features
+-  Add new patients with severity level
+-  Automatically prioritize critical patients
+-  Treat patients based on priority
+-  Display current patient queue
+-  Sort patients using Heap Sort
 
 ---
 
-## 🧠 Data Structures Used
+## Data Structures Used
 - **Priority Queue (Heap)**
 - **ArrayList**
 
 ---
 
-## 🔍 How It Works
+## How It Works
 - Each patient is assigned:
   - Name
   - Severity (1–10)
@@ -38,14 +38,14 @@ This project is a Java-based Hospital Emergency Management System that prioritiz
 
 ---
 
-## 💻 Technologies Used
+## Technologies Used
 - Java
 - Object-Oriented Programming
 - Data Structures & Algorithms
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Step 1: Compile the program
 ```bash
